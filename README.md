@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-CodeSoft-Project-2
+# Credit-Card-Fraud-Detection-CodSoft-Project-2
 This project aims to detect fraudulent credit card transactions using a Support Vector Machine (SVM) model.
 
 ## Project Overview
